@@ -1,380 +1,429 @@
-route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
-U3000,rapidkl,300,Hab Pandan Indah ~ Lebuh Ampang,3,006CFF,FFFFFF
-U3030,rapidkl,303,Taman Mulia Jaya ~ Lebuh Ampang,3,006CFF,FFFFFF
-U4000,rapidkl,400,Damai Perdana ~ Hab Lebuh Pudu via Bukit Bintang,3,006CFF,FFFFFF
-U4200,rapidkl,420,Hab Pandan Indah ~ Menara Maybank via Bukit Bintang,3,006CFF,FFFFFF
-U4210,rapidkl,421,Hentian Taman Dagang ~ Menara Maybank via Bukit Bintang,3,006CFF,FFFFFF
-U4500,rapidkl,450,Hentian Kajang ~ Hab Lebuh Pudu,3,006CFF,FFFFFF
-U5800,rapidkl,580,Desa Petaling ~ Hab Lebuh Pudu via Stesen LRT Salak Selatan,3,006CFF,FFFFFF
-U5810,rapidkl,581,Desa Tasik ~ Stesen LRT Bandar Tasik Selatan,3,006CFF,FFFFFF
-U5900,rapidkl,590,Bandar Sungai Long ~ Hab Pasar Seni,3,006CFF,FFFFFF
-U7510,rapidkl,751,Taman Sri Muda ~ Hab Pasar Seni,3,006CFF,FFFFFF
-U7520,rapidkl,752,Stesen LRT Putra Height ~ Hentian Bandar Shah Alam,3,006CFF,FFFFFF
-U7700,rapidkl,770,Subang Mewah USJ 1 ~ Hab Pasar Seni,3,006CFF,FFFFFF
-T3500,rapidkl,T350,Stesen LRT Cempaka ~ Taman Mawar,3,008716,FFFFFF
-T3510,rapidkl,T351,Stesen LRT Cempaka ~ Taman Bukit Permai,3,008716,FFFFFF
-T4500,rapidkl,T450,Beranang ~ MRT Stadium Kajang,3,008716,FFFFFF
-S0030,rapidkl,KJ01,Hentian Kajang ~ Bandar Kajang via Seksyen 7 Bangi,3,008716,FFFFFF
-T3030,rapidkl,T303,Ampang Point ~ Stesen LRT Pandan Indah,3,008716,FFFFFF
-U5410,rapidkl,541,Putra Permai ~ Stesen LRT BK 5,3,006CFF,FFFFFF
-T6010,rapidkl,T601,Puchong Utama ~ Puchong Prima,3,008716,FFFFFF
-T6040,rapidkl,T604,Stesen LRT Perindustrian Puchong ~ Taman Kinrara,3,008716,FFFFFF
-T6050,rapidkl,T605,Stesen LRT Bandar Puteri ~ Bandar Puteri,3,008716,FFFFFF
-S0060,rapidkl,BTG1,"Hentian Banting ~ Mitsui Outlet , KLIA 2",3,008716,FFFFFF
-T6000,rapidkl,T600,Stesen LRT IOI Puchong ~ Taman Wawasan,3,008716,FFFFFF
-T6030,rapidkl,T603,Stesen LRT Puchong Prima ~ Taman Mas Sepang,3,008716,FFFFFF
-T7740,rapidkl,T774,"Stesen LRT Glenmarie ~ MSU, Stadium Shah Alam",3,008716,FFFFFF
-T7760,rapidkl,T776,Stesen LRT USJ 7 ~ Subang Mewah,3,008716,FFFFFF
-S4020,rapidkl,SA02,Hentian Bandar Seksyen 14 ~ Stesen KTM Batu 3,3,008716,FFFFFF
-S4030,rapidkl,SA03,KTM Sekyen 19 ~ Terminal 17 ~ Seksyen 24 ~ Seksyen 20,3,008716,FFFFFF
-S4040,rapidkl,SA04,Terminal Seksyen 17 ~ Hospital Shah Alam,3,008716,FFFFFF
-U6510,rapidkl,651,Stesen LRT Muhibbah ~Pearl Point,3,006CFF,FFFFFF
-U6520,rapidkl,652,Stesen LRT Awan Besar ~Batu 3 Jalan Klang Lama,3,006CFF,FFFFFF
-T5800,rapidkl,T580,Stesen LRT Awan Besar ~ TPM via Stesen LRT Bukit Jalil,3,008716,FFFFFF
-T5810,rapidkl,T581,Stesen LRT Alam Sutera ~ PPR Pinggiran Bukit Jalil,3,008716,FFFFFF
-U6000,rapidkl,600,Puchong Utama ~ Hab Pasar Seni,3,006CFF,FFFFFF
-U6020,rapidkl,602,Puchong Prima ~ IOI Puchong,3,006CFF,FFFFFF
-U6400,rapidkl,640,Hab Bas Sri Manja ~ Hab Pasar Seni,3,006CFF,FFFFFF
-U6500,rapidkl,650,Taman Desa ~ Hab Pasar Seni,3,006CFF,FFFFFF
-T6400,rapidkl,T640,Stesen LRT Taman Jaya ~ Taman Sri Sentosa,3,008716,FFFFFF
-U7830,rapidkl,783,Stesen LRT Kelana Jaya ~ Subang Parade,3,006CFF,FFFFFF
-T7820,rapidkl,T782,Stesen LRT Lembah Subang ~ Ara Damansara,3,008716,FFFFFF
-T7800,rapidkl,T780,Stesen LRT Kelana Jaya ~ Taman Mayang,3,008716,FFFFFF
-T7810,rapidkl,T781,Stesen LRT Kelana Jaya ~ Kelana Centre Point,3,008716,FFFFFF
-T7900,rapidkl,T790,Stesen LRT Paramount ~ Mid Valley,3,008716,FFFFFF
-T7860,rapidkl,T786,Stesen LRT Asia Jaya ~ Stesen MRT Phileo Damansara,3,008716,FFFFFF
-T7870,rapidkl,T787,Stesen LRT Asia Jaya ~ Seksyen 14 & 18,3,008716,FFFFFF
-T7880,rapidkl,T788,Stesen LRT Universiti ~ Mid Valley,3,008716,FFFFFF
-T7890,rapidkl,T789,Stesen LRT Universiti ~ Universiti Malaya via Pantai Hillpark,3,008716,FFFFFF
-T7910,rapidkl,T791,Stesen LRT Kerinchi ~ Pantai Hill Park,3,008716,FFFFFF
-P0010,rapidkl,PJ01,Terminal Taman Medan ~ Stesen LRT Taman Jaya,3,008716,FFFFFF
-P0020,rapidkl,PJ02,Stesen LRT Taman Jaya ~ PPUM via SS2 PJ,3,008716,FFFFFF
-P0030,rapidkl,PJ03,Stesen LRT Taman Bahagia ~ SS6 Kelana Park View,3,008716,FFFFFF
-P0040,rapidkl,PJ04,Stesen LRT Taman Bahagia ~ Kampung Tunku via SS3,3,008716,FFFFFF
-S5010,rapidkl,MENARA PRASARANA,LRT Lembah Subang ~ Menara Prasarana,3,21618C,FFFFFF
-T8500,rapidkl,T850,Stesen LRT Bangsar ~ Stesen MRT Semantan,3,008716,FFFFFF
-S4050,rapidkl,SA05,Stesen Bas Seksyen 13 ~ Bukit Jelutong,3,008716,FFFFFF
-S1030,rapidkl,AJ2A,Sri Nilam ~ Taman Cahaya,3,008716,FFFFFF
-S1040,rapidkl,AJ2B,Sri Nilam ~ AEON Big Ampang,3,008716,FFFFFF
-S1050,rapidkl,AJ03,Stesen LRT Cempaka ~ Bukit Teratai,3,008716,FFFFFF
-S2060,rapidkl,BTG2,Hentian Banting ~ Bandar Baru Banting,3,008716,FFFFFF
-S1060,rapidkl,KJ02,Stesen KTM Bangi ~ Bandar Bukit Mahkota,3,008716,FFFFFF
-S1070,rapidkl,KJ03,Stesen MRT BTHO ~ Taman Tun Perak,3,008716,FFFFFF
-U7720,rapidkl,772,Subang Suria Mah Sing ~ Hab Pasar Seni,3,006CFF,FFFFFF
-U7800,rapidkl,780,Kota Damansara ~ Hab Pasar Seni,3,006CFF,FFFFFF
-U8010,rapidkl,801,Bandar Utama ~ Metro Prima,3,006CFF,FFFFFF
-U8020,rapidkl,802,Stesen LRT Kelana Jaya ~ Kota Damansara,3,006CFF,FFFFFF
-U2000,rapidkl,200,UIA Gombak ~ SOGO KL,3,006CFF,FFFFFF
-U2200,rapidkl,220,Taman Melawati ~ Lebuh Ampang,3,006CFF,FFFFFF
-U2220,rapidkl,222,Taman Melawati ~ Stesen LRT Wangsa Maju,3,006CFF,FFFFFF
-U2500,rapidkl,250,Stesen LRT Wangsa Maju ~ Lebuh Ampang,3,006CFF,FFFFFF
-U2510,rapidkl,251,AU3 Jentayu ~ Chow Kit,3,006CFF,FFFFFF
-T2000,rapidkl,T200,Stesen LRT Gombak ~ UIA Gombak,3,008716,FFFFFF
-T2010,rapidkl,T201,Stesen LRT Gombak ~ Hab Wira Damai,3,008716,FFFFFF
-T2020,rapidkl,T202,Stesen LRT Taman Melati ~ Taman Melewar,3,008716,FFFFFF
-T2220,rapidkl,T222,Stesen LRT Sri Rampai ~ UKAY Perdana,3,008716,FFFFFF
-T2500,rapidkl,T250,Stesen LRT Wangsa Maju ~ Setapak Sentral,3,008716,FFFFFF
-T2510,rapidkl,T251,Stesen LRT Sri Rampai ~ Seksyen 10 Wangsa Maju,3,008716,FFFFFF
-T2230,rapidkl,T223,"Stesen LRT Setiawangsa ~ AU3, Jentayu, Keramat",3,008716,FFFFFF
-T2240,rapidkl,T224,Stesen LRT Dato Keramat ~ Desa Pandan,3,008716,FFFFFF
-U1700,rapidkl,170,Hab Wira Damai ~ Stesen MRT Titiwangsa,3,006CFF,FFFFFF
-U1710,rapidkl,171,Hab Wira Damai ~ Lebuh Ampang via Sentul,3,006CFF,FFFFFF
-U1730,rapidkl,173,Taman Jasa Utama ~ Lebuh Ampang,3,006CFF,FFFFFF
-U1800,rapidkl,180,Taman Dato' Senu ~ Hab Pasar Seni,3,006CFF,FFFFFF
-U1900,rapidkl,190,Desa Sri Hartamas ~ Lin Ho Jln Lekiu,3,006CFF,FFFFFF
-U1910,rapidkl,191,Taman Sri Segambut~ Monorel Chow Kit,3,006CFF,FFFFFF
-U2020,rapidkl,202,Hub Wira Damai ~ Lebuh Ampang via Gombak,3,006CFF,FFFFFF
-U3020,rapidkl,302,Titiwangsa ~ KLCC,3,006CFF,FFFFFF
-U8210,rapidkl,821,Pantai Hill Park ~ Hab Pasar Seni,3,006CFF,FFFFFF
-U8220,rapidkl,822,Stesen LRT Bangsar ~ Bangsar Shopping Centre,3,006CFF,FFFFFF
-U8510,rapidkl,851,Hab Pasar Seni ~ Kompleks Mahkamah Jalan Duta,3,006CFF,FFFFFF
-P0050,rapidkl,PJ05,Bandar Utama ~ Stesen LRT Taman Bahagia,3,008716,FFFFFF
-P0060,rapidkl,PJ06,Bandar Utama ~ Damansara Damai,3,008716,FFFFFF
-S0070,rapidkl,MPS1,Selayang Mutiara ~ Stesen LRT Gombak,3,008716,FFFFFF
-S0100,rapidkl,PBD1,Stesen MRT Semantan  ~ Damanlela Open CarPark,3,21618C,FFFFFF
-S1140,rapidkl,AJ04,Pandan Perdana ~ Hospital Ampang,3,008716,FFFFFF
-S4060,rapidkl,SA06,Terminal Seksyen 19 ~ Kota Kemuning,3,008716,FFFFFF
-S1170,rapidkl,KJ04,Hentian Kajang ~ Bandar Baru Bangi,3,008716,FFFFFF
-S4070,rapidkl,SA07,Stesen KTM Batu 3 ~ Seksyen 20 via HICOM,3,008716,FFFFFF
-S4080,rapidkl,SA08,Stesen LRT Alam Megah ~ Kota Kemuning,3,008716,FFFFFF
-S6020,rapidkl,BC2,Pasar Seni ~ Batu Caves (Thaipusam),3,21618C,FFFFFF
-S6050,rapidkl,BC3,LRT Gombak ~ Batu Caves (Thaipusam),3,21618C,FFFFFF
-S0040,rapidkl,AJ01,Ukay Perdana ~ Taman Melawati via Sg. Sering,3,008716,FFFFFF
-S3020,rapidkl,KLG3A,Taman Sri Andalas ~ Bandar Klang,3,008716,FFFFFF
-S3030,rapidkl,KLG3B,Bandar Putera ~ Bandar Klang via Jalan Raja Nong,3,008716,FFFFFF
-S1190,rapidkl,MPS2A,Lotus Rawang ~ Rawang Perdana,3,008716,FFFFFF
-S6060,rapidkl,PAVILION BUKIT JALIL (PAVBJ),Stesen LRT Awan Besar ~ Pavilion Bukit Jalil,3,006CFF,FFFFFF
-S1390,rapidkl,MPS3,Batu Arang ~ Stesen MRT Sungai Buloh,3,008716,FFFFFF
-S1490,rapidkl,MPS4,Wangsa Permai ~ Bandar Baru Selayang,3,008716,FFFFFF
-R0200,rapidkl,DS01(AM),Stesen LRT Ampang ~ KLCC via AKLEH,3,21618C,FFFFFF
-R0210,rapidkl,DS01(PM),KLCC via AKLEH ~ Stesen LRT Ampang,3,21618C,FFFFFF
-S3040,rapidkl,KLG3C,Bandar Putera ~ Bandar Klang via Jalan Kebun,3,008716,FFFFFF
-P1010,rapidkl,P101,Kompleks F ~ Presint 5,3,21618C,FFFFFF
-P1020,rapidkl,P102,Presint 11 ~ Kompleks E,3,21618C,FFFFFF
-P1030,rapidkl,P103,Presint 14 via Alamanda ~ Kompleks E,3,21618C,FFFFFF
-P1040,rapidkl,P104,Dataran Gemilang ~ PICC via Presint 5,3,21618C,FFFFFF
-P1050,rapidkl,P105,Dataran Gemilang ~ Kompleks ABCDE,3,21618C,FFFFFF
-P1060,rapidkl,P106,Presint 4 ~ Kompleks E,3,21618C,FFFFFF
-P1080,rapidkl,P108,Terminal Putrajaya Sentral ~ Kompleks ABCDE,3,21618C,FFFFFF
-U1510,rapidkl,151,Bandar Baru Selayang ~ Hab Lebuh Pudu,3,006CFF,FFFFFF
-T8510,rapidkl,T851,KL Sentral ~ Parlimen,3,008716,FFFFFF
-U4510,rapidkl,451,Stesen MRT Kajang ~ Stesen MRT Putrajaya Sentral,3,006CFF,FFFFFF
-S6090,rapidkl,BC4,MRT Kg Batu ~ Batu Caves (Thaipusam),3,21618C,FFFFFF
-T3008,rapidkl,T300,Bukit Indah ~ Ampang Point via Jalan Rasmi,3,008716,FFFFFF
-U4028,rapidkl,402,Terminal Maluri ~ Titiwangsa,3,006CFF,FFFFFF
-T3018,rapidkl,T301,Taman Mulia Jaya ~ Ampang Point via Jalan Merdeka,3,008716,FFFFFF
-T3028,rapidkl,T302,Hutan Lipur Ampang ~ Ampang Point,3,008716,FFFFFF
-T3048,rapidkl,T304,Bukit Indah ~ Ampang Point via Jalan Ampang,3,008716,FFFFFF
-U7548,rapidkl,754,Sekysen 13 Shah Alam ~ UITM Puncak Perdana,3,006CFF,FFFFFF
-U7538,rapidkl,753,Hentian Bandar Shah Alam ~ UiTM Puncak Alam,3,006CFF,FFFFFF
-S4100,rapidkl,SA10,Bukit Subang~Kg Melayu Subang ~Pekan Subang~Bukit Jelutung,3,008716,FFFFFF
-U7828,rapidkl,782,Hentian PJ Old Town ~ Hab Pasar Seni,3,006CFF,FFFFFF
-T7548,rapidkl,T754,Hentian Bandar Shah Alam ~ Terminal Seksyen 17,3,008716,FFFFFF
-U7088,rapidkl,708,Klang ~ Sunway Pyramid via Hentian Bandar,3,006CFF,FFFFFF
-T7568,rapidkl,T756,Kemuning Business Park ~ Hentian Bandar via Taman Muda,3,008716,FFFFFF
-U7718,rapidkl,771,Subang Mewah USJ 1 ~ Desa Mentari via Persiaran Tujuan,3,006CFF,FFFFFF
-T7538,rapidkl,T753,"Hentian Bandar Shah Alam ~ Sekysen 11, 9, 8, 6, 5",3,008716,FFFFFF
-T7158,rapidkl,T715,UiTM Puncak Alam ~ Bandar Puncak Alam,3,008716,FFFFFF
-U7508,rapidkl,750,Hab Sekysen 2 ~ Hab Pasar Seni,3,006CFF,FFFFFF
-T4068,rapidkl,T406,Cheras Batu 10 ~ Pangsun,3,008716,FFFFFF
-U5068,rapidkl,506,Putrajaya Sentral ~ Bandar Utama,3,006CFF,FFFFFF
-U5408,rapidkl,540,Putra Permai ~ Stesen KTM Serdang,3,006CFF,FFFFFF
-T5718,rapidkl,T571,Stesen KTM Serdang ~ Taman Sri Pulai,3,008716,FFFFFF
-U6418,rapidkl,641,Stesen LRT Subang Jaya ~ Pearl Point,3,006CFF,FFFFFF
-T6028,rapidkl,T602,Puchong Utama ~ Taman Saujana Puchong,3,008716,FFFFFF
-S0120,rapidkl,HLB2,LRT Taman Jaya ~ Hong Leong Bank PJCT,3,21618C,FFFFFF
-U2538,rapidkl,253,Stesen LRT Wangsa Maju ~ Ampang Point,3,006CFF,FFFFFF
-U2548,rapidkl,254,Ayer Panas ~ Titiwangsa via Chowkit,3,006CFF,FFFFFF
-T1208,rapidkl,T120,Kompleks Sungai Mas ~ Taman Mastiara,3,008716,FFFFFF
-U2018,rapidkl,201,Batu 12 Gombak – Stesen MRT Titiwangsa,3,006CFF,FFFFFF
-K1000,rkn,100,Hentian Bandar-Gambang Resort,3,006CFF,FFFFFF
-K1010,rkn,101,Hentian Bandar-Inderapura/Indera Sempurna,3,006CFF,FFFFFF
-K1020,rkn,102,Hentian Bandar-Permatang Badak,3,006CFF,FFFFFF
-K2000,rkn,200,Hentian Bandar-Teluk Cempedak,3,006CFF,FFFFFF
-K3000,rkn,300,Hentian Bandar-Taman Impian,3,006CFF,FFFFFF
-K3010,rkn,301,Hentian Bandar-Bukit Sagu,3,006CFF,FFFFFF
-K3020,rkn,302,Hentian Bandar-Indera Mahkota 1,3,006CFF,FFFFFF
-K3030,rkn,303,Hentian Bandar-Terminal Sentral Kuantan,3,006CFF,FFFFFF
-K4000,rkn,400,Hentian Bandar-Pekan,3,006CFF,FFFFFF
-K4010,rkn,401,Hentian Bandar-RTC Kuala Pahang,3,006CFF,FFFFFF
-K5000,rkn,500,Hentian Bandar-Sungai Lembing,3,006CFF,FFFFFF
-K6000,rkn,600,Hentian Bandar-Balok Makmur (via Jln Beserah),3,006CFF,FFFFFF
-K6010,rkn,601,Hentian Bandar-Kolej Polisas,3,006CFF,FFFFFF
-K6030,rkn,603,Hentian Bandar-Kolej PSDC,3,006CFF,FFFFFF
-K4020,rkn,402,HENTIAN BANDAR ~ SMK SUNGAI SOI,3,006CFF,FFFFFF
-K6040,rkn,604,Balok Makmur-Cherating,3,006CFF,FFFFFF
-K2010,rkn,T201,KUANTAN CITY LOOP,3,008716,FFFFFF
-30000143,,,T117,3,,
-30000044,,,T413,3,,
-30000117,,,T459,3,,
-30000097,,,T305,3,,
-30000127,,,T407,3,,
-30000057,,,T400,3,,
-30000157,,,T512,3,,
-30000060,,,T802,3,,
-30000125,,,T807,3,,
-30000096,,,T455,3,,
-30000137,,,T111,3,,
-30000041,,,T411,3,,
-30000148,,,T562,3,,
-30000162,,,T586,3,,
-30000028,,,T819,3,,
-30000174,,,T565,3,,
-30000029,,,T820,3,,
-30000121,,,T101,3,,
-30000181,,,T569,3,,
-30000025,,,T816,3,,
-30000152,,,T506,3,,
-30000056,,,T412,3,,
-30000091,,,T104,3,,
-30000165,,,T543,3,,
-30000154,,,T509,3,,
-30000124,,,T105,3,,
-30000094,,,T453,3,,
-30000133,,,T107,3,,
-30000160,,,T564,3,,
-30000115,,,T457,3,,
-30000118,,,T460,3,,
-30000136,,,T110,3,,
-30000116,,,T458,3,,
-30000067,,,T803,3,,
-30000068,,,T852,3,,
-30000062,,,T804,3,,
-30000145,,,T103,3,,
-30000149,,,T508,3,,
-30000155,,,T510,3,,
-30000173,,,T560,3,,
-30000011,,,T812,3,,
-30000151,,,T505,3,,
-30000176,,,T511,3,,
-30000120,,,T100,3,,
-30000158,,,T561,3,,
-30000156,,,T544,3,,
-30000131,,,T772,3,,
-30000168,,,T567,3,,
-30000064,,,T408,3,,
-30000130,,,T801,3,,
-30000180,,,T545,3,,
-30000030,,,T821,3,,
-30000026,,,T817,3,,
-30000132,,,T106,3,,
-30000185,,,T154,3,,
-30000106,,,T809,3,,
-30000092,,,T813,3,,
-30000184,,,T121,3,,
-30000058,,,T401,3,,
-30000141,,,T115,3,,
-30000166,,,T568,3,,
-30000164,,,T588,3,,
-30000175,,,T542,3,,
-30000016,,,T815,3,,
-30000134,,,T108,3,,
-30000187,,,T465,3,,
-30000170,,,T419,3,,
-30000038,,,T409,3,,
-30000159,,,T563,3,,
-30000101,,,T462,3,,
-30000075,,,T352,3,,
-30000040,,,T410,3,,
-30000100,,,T461,3,,
-30000010,,,T811,3,,
-30000146,,,T119,3,,
-30000186,,,T155,3,,
-30000147,,,T180,3,,
-30000140,,,T114,3,,
-30000069,,,T417,3,,
-30000167,,,T566,3,,
-30000093,,,T814,3,,
-30000153,,,T507,3,,
-30000105,,,T810,3,,
-30000150,,,T504,3,,
-30000085,,,T805,3,,
-30000027,,,T818,3,,
-30000102,,,T463,3,,
-30000144,,,T118,3,,
-30000009,,,T808,3,,
-30000183,,,T152,3,,
-30000139,,,T113,3,,
-30000135,,,T109,3,,
-30000034,,,T456,3,,
-30000163,,,T587,3,,
-30000129,,,T464,3,,
-30000036,,,T415,3,,
-30000172,,,T559,3,,
-30000122,,,T102,3,,
-30000045,,,T414,3,,
-30000138,,,T112,3,,
-30000169,,,T418,3,,
-30000128,,,T451,3,,
-30000171,,,T589,3,,
-30000098,,,T402,3,,
-30000046,,,T416,3,,
-30000161,,,T585,3,,
-30000095,,,T454,3,,
-30000019,rapidpg,401,401,3,,
-30000051,rapidpg,CAT,CAT,3,,
-30000009,rapidpg,206,206,3,,
-30000006,rapidpg,202,202,3,,
-30000040,rapidpg,708,708,3,,
-30000089,rapidpg,613,613,3,,
-30000038,rapidpg,703,703,3,,
-30000048,rapidpg,11,11,3,,
-30000001,rapidpg,101,101,3,,
-30000007,rapidpg,203,203,3,,
-30000021,rapidpg,403,403,3,,
-30000117,rapidpg,CT14,CT14,3,,
-30000100,rapidpg,CT13,CT13,3,,
-30000020,rapidpg,401E,401E,3,,
-30000010,rapidpg,301,301,3,,
-30000014,rapidpg,304,304,3,,
-30000005,rapidpg,201,201,3,,
-30000012,rapidpg,302,302,3,,
-30000018,rapidpg,308,308,3,,
-30000034,rapidpg,610,610,3,,
-30000119,rapidpg,T310,T310,3,,
-30000026,rapidpg,601,601,3,,
-30000028,rapidpg,604,604,3,,
-30000041,rapidpg,709,709,3,,
-30000024,rapidpg,502,502,3,,
-30000065,rapidpg,706,706,3,,
-30000013,rapidpg,303,303,3,,
-30000042,rapidpg,801,801,3,,
-30000008,rapidpg,204,204,3,,
-30000022,rapidpg,404,404,3,,
-30000049,rapidpg,12,12,3,,
-30000032,rapidpg,606,606,3,,
-30000016,rapidpg,306,306,3,,
-30000037,rapidpg,702,702,3,,
-30000031,rapidpg,605,605,3,,
-30000046,rapidpg,EB60,EB60,3,,
-30000043,rapidpg,802,802,3,,
-30000003,rapidpg,103,103,3,,
-30000045,rapidpg,EB80,EB80,3,,
-30000002,rapidpg,102,102,3,,
-30000004,rapidpg,104,104,3,,
-30000104,rapidpg,C13C,C13C,3,,
-30000036,rapidpg,701,701,3,,
-30000050,rapidpg,13,13,3,,
-30000027,rapidpg,603,603,3,,
-30000039,rapidpg,707,707,3,,
-30000103,rapidpg,C13A,C13A,3,,
-AG,rapidrail,AGL,LRT Ampang Line,1,e57200,FFFFFF
-KJ,rapidrail,KJL,LRT Kelana Jaya Line,1,D50032,FFFFFF
-PH,rapidrail,SPL,LRT Sri Petaling Line,1,76232f,FFFFFF
-KGL,rapidrail,KGL,MRT Kajang Line,1,047940,FFFFFF
-PYL,rapidrail,PYL,MRT Putrajaya Line,1,FFCD00,FFFFFF
-MR,rapidrail,MRL,KL Monorail Line,1,84bd00,FFFFFF
-BRT,rapidrail,BRT,BRT Sunway Line,0,115740,FFFFFF
-KC05_KB18,ktmb,Seremban Line,KTM Batu Caves - Pulau Sebang/Tampin,0,3C5A9F,FFFFFF
-KA15_KD19,ktmb,Port Klang Line,KTM Tanjung Malim - Pelabuhan Klang,0,DC2420,FFFFFF
-100_47300,ktmb,Padang Besar Line,KTM Butterworth - Padang Besar,0,018000,FFFFFF
-100_9000,ktmb,Ipoh Line,KTM Butterworth - Ipoh,0,1964B7,FFFFFF
-SH,ktmb,SH,Intercity Shuttle Tumpat - Gemas,2,,
-ERT,ktmb,ERT,Intercity Ekspres Rakyat Timuran Tumpat - JB Sentral,2,,
-ES,ktmb,ES,Intercity Ekspres Selatan Gemas - JB Sentral,2,,
-ST,ktmb,ST,Intercity Shuttle Tebrau JB Sentral - Woodlands,2,,
-ETS,ktmb,ETS,Electric Train Service Padang Besar - Gemas,2,,
-J10CWL,CWL,J10,JB Sentral - Terminal Bas Kota Tinggi,3,FFF300,111111
-J100CWL,CWL,J100,JB Sentral  KSL - JB Sentral,3,FFF300,111111
-J11CWL,CWL,J11,JB Sentral - AEON Dato Onn via Setia Indah,3,FFF300,111111
-J13CWL,CWL,J13,JB Sentral - Larkin Sentral via Mahmoodiah,3,FFF300,111111
-J15CWL,CWL,J15,JB Sentral - Mid Valley Southkey,3,FFF300,111111
-J16CWL,CWL,J16,B5 Johor Street Market / Plaza Angsana - Toppen Tebrau,3,FFF300,111111
-J20CWL,CWL,J20,JB Sentral - Terminal Bas Masai,3,FFF300,111111
-J200CWL,CWL,J200,Terminal Masai  PPR Seri Alam - Terminal Masai,3,FFF300,111111
-J205CWL,CWL,J205,Terminal Bas Masai - Lotus Kota Masai,3,FFF300,111111
-J21CWL,CWL,J21,JB Sentral - Permas Jaya,3,FFF300,111111
-J22CWL,CWL,J22,JB Sentral - Taman Scientex Pasir Gudang,3,FFF300,111111
-J30CWL,CWL,J30,JB Sentral - Terminal Kulai,3,FFF300,111111
-J300CWL,CWL,J300,Terminal Kulai - Taman Putri Kulai,3,FFF300,111111
-J31CWL,CWL,J31,JB Sentral - Taman Pulai Mutiara,3,FFF300,111111
-J32CWL,CWL,J32,JB Sentral - Bandar Selesa Jaya,3,FFF300,111111
-J33CWL,CWL,J33,JB Sentral - Taman Tan Sri Yaacob,3,FFF300,111111
-J34CWL,CWL,J34,JB Sentral - Terminal Sutera Mall,3,FFF300,111111
-J40CWL,CWL,J40,Larkin Sentral - Gelang Patah Sentral,3,FFF300,111111
-J42CWL,CWL,J42,Terminal Gelang Patah - Pendas,3,FFF300,111111
-J44CWL,CWL,J44,Larkin Sentral - Terminal Feri Puteri Harbour melalui AEON Bukit Indah,3,FFF300,111111
-J50CWL,CWL,J50,Larkin Sentral - Pontian,3,FFF300,111111
-30376,41B482AD-7BD8-4EE7-89CC34C9F4E4B1F5,T11B,TERMINAL MBKT - BATU RAKIT (PETANG),3,FF0000,000000
-M100CWLMLK,CWLMLK,M100,Bandaraya Melaka Feeder,3,FFF300,111111
-M101CWLMLK,CWLMLK,M101,Pasar Melaka Feeder,3,FFF300,111111
-M10ACWLMLK,CWLMLK,M10A,Melaka Sentral - MITC,3,FFF300,111111
-M10BCWLMLK,CWLMLK,M10B,Melaka Sentral - MITC - Via Jalan Pengkalan Batu & AEON Melaka,3,FFF300,111111
-M11CWLMLK,CWLMLK,M11,Melaka Sentral - Bukit Katil / Taman Saujana Permai,3,FFF300,111111
-M12CWLMLK,CWLMLK,M12,Melaka Sentral - Airport Batu Berendam / Angkasa Nuri,3,FFF300,111111
-M13CWLMLK,CWLMLK,M13,Melaka Sentral - Taman Inang Sari,3,FFF300,111111
-M14CWLMLK,CWLMLK,M14,Melaka Sentral - Bertam Ulu / Tanjung Minyak Perdana,3,FFF300,111111
-M15CWLMLK,CWLMLK,M15,Melaka Sentral - Pulau Gadong,3,FFF300,111111
-M16CWLMLK,CWLMLK,M16,Melaka Sentral - Paya Luboh,3,FFF300,111111
-M17CWLMLK,CWLMLK,M17,Melaka Sentral - Tangga Batu,3,FFF300,111111
-M20CWLMLK,CWLMLK,M20,Melaka Sentral - Tampin via Alor Gajah,3,FFF300,111111
-M20XCWLMLK,CWLMLK,M20X,Melaka Sentral - Alor Gajah,3,FFF300,111111
-M21CWLMLK,CWLMLK,M21,Melaka Sentral - Tampin via Alor Gajah Durian Tunggal,3,FFF300,111111
-M21XCWLMLK,CWLMLK,M21X,Melaka Sentral - Alor Gajah Melalui Durian Tunggal,3,FFF300,111111
-M22CWLMLK,CWLMLK,M22,Melaka Sentral - Bandar Vendor / UniKL,3,FFF300,111111
-M23CWLMLK,CWLMLK,M23,Melaka Sentral - Masjid Tanah / Pengkalan Balak,3,FFF300,111111
-M23XCWLMLK,CWLMLK,M23X,Masjid Tanah - Melaka Sentral,3,FFF300,111111
-M30CWLMLK,CWLMLK,M30,Melaka Sentral - Batang Melaka via Selandar,3,FFF300,111111
-M31CWLMLK,CWLMLK,M31,Melaka Sentral - Batang Melaka via Tebong,3,FFF300,111111
-M32CWLMLK,CWLMLK,M32,Melaka Sentral - Jasin,3,FFF300,111111
-M33CWLMLK,CWLMLK,M33,Jasin - Taman Seri Asahan,3,FFF300,111111
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color,agency_name
+U3000,rapidkl,300,Hab Pandan Indah ~ Lebuh Ampang,3,006CFF,FFFFFF,Rapid KL
+U3030,rapidkl,303,Taman Mulia Jaya ~ Lebuh Ampang,3,006CFF,FFFFFF,Rapid KL
+U4000,rapidkl,400,Damai Perdana ~ Hab Lebuh Pudu via Bukit Bintang,3,006CFF,FFFFFF,Rapid KL
+U4200,rapidkl,420,Hab Pandan Indah ~ Menara Maybank via Bukit Bintang,3,006CFF,FFFFFF,Rapid KL
+U4210,rapidkl,421,Hentian Taman Dagang ~ Menara Maybank via Bukit Bintang,3,006CFF,FFFFFF,Rapid KL
+U4500,rapidkl,450,Hentian Kajang ~ Hab Lebuh Pudu,3,006CFF,FFFFFF,Rapid KL
+U5800,rapidkl,580,Desa Petaling ~ Hab Lebuh Pudu via Stesen LRT Salak Selatan,3,006CFF,FFFFFF,Rapid KL
+U5810,rapidkl,581,Desa Tasik ~ Stesen LRT Bandar Tasik Selatan,3,006CFF,FFFFFF,Rapid KL
+U5900,rapidkl,590,Bandar Sungai Long ~ Hab Pasar Seni,3,006CFF,FFFFFF,Rapid KL
+U7510,rapidkl,751,Taman Sri Muda ~ Hab Pasar Seni,3,006CFF,FFFFFF,Rapid KL
+U7520,rapidkl,752,Stesen LRT Putra Height ~ Hentian Bandar Shah Alam,3,006CFF,FFFFFF,Rapid KL
+U7700,rapidkl,770,Subang Mewah USJ 1 ~ Hab Pasar Seni,3,006CFF,FFFFFF,Rapid KL
+T3500,rapidkl,T350,Stesen LRT Cempaka ~ Taman Mawar,3,008716,FFFFFF,Rapid KL
+T3510,rapidkl,T351,Stesen LRT Cempaka ~ Taman Bukit Permai,3,008716,FFFFFF,Rapid KL
+T4500,rapidkl,T450,Beranang ~ MRT Stadium Kajang,3,008716,FFFFFF,Rapid KL
+S0030,rapidkl,KJ01,Hentian Kajang ~ Bandar Kajang via Seksyen 7 Bangi,3,008716,FFFFFF,Rapid KL
+T3030,rapidkl,T303,Ampang Point ~ Stesen LRT Pandan Indah,3,008716,FFFFFF,Rapid KL
+U5410,rapidkl,541,Putra Permai ~ Stesen LRT BK 5,3,006CFF,FFFFFF,Rapid KL
+T6010,rapidkl,T601,Puchong Utama ~ Puchong Prima,3,008716,FFFFFF,Rapid KL
+T6040,rapidkl,T604,Stesen LRT Perindustrian Puchong ~ Taman Kinrara,3,008716,FFFFFF,Rapid KL
+T6050,rapidkl,T605,Stesen LRT Bandar Puteri ~ Bandar Puteri,3,008716,FFFFFF,Rapid KL
+S0060,rapidkl,BTG1,"Hentian Banting ~ Mitsui Outlet , KLIA 2",3,008716,FFFFFF,Rapid KL
+T6000,rapidkl,T600,Stesen LRT IOI Puchong ~ Taman Wawasan,3,008716,FFFFFF,Rapid KL
+T6030,rapidkl,T603,Stesen LRT Puchong Prima ~ Taman Mas Sepang,3,008716,FFFFFF,Rapid KL
+T7740,rapidkl,T774,"Stesen LRT Glenmarie ~ MSU, Stadium Shah Alam",3,008716,FFFFFF,Rapid KL
+T7760,rapidkl,T776,Stesen LRT USJ 7 ~ Subang Mewah,3,008716,FFFFFF,Rapid KL
+S4020,rapidkl,SA02,Hentian Bandar Seksyen 14 ~ Stesen KTM Batu 3,3,008716,FFFFFF,Rapid KL
+S4030,rapidkl,SA03,KTM Sekyen 19 ~ Terminal 17 ~ Seksyen 24 ~ Seksyen 20,3,008716,FFFFFF,Rapid KL
+S4040,rapidkl,SA04,Terminal Seksyen 17 ~ Hospital Shah Alam,3,008716,FFFFFF,Rapid KL
+U6510,rapidkl,651,Stesen LRT Muhibbah ~Pearl Point,3,006CFF,FFFFFF,Rapid KL
+U6520,rapidkl,652,Stesen LRT Awan Besar ~Batu 3 Jalan Klang Lama,3,006CFF,FFFFFF,Rapid KL
+T5800,rapidkl,T580,Stesen LRT Awan Besar ~ TPM via Stesen LRT Bukit Jalil,3,008716,FFFFFF,Rapid KL
+T5810,rapidkl,T581,Stesen LRT Alam Sutera ~ PPR Pinggiran Bukit Jalil,3,008716,FFFFFF,Rapid KL
+U6000,rapidkl,600,Puchong Utama ~ Hab Pasar Seni,3,006CFF,FFFFFF,Rapid KL
+U6020,rapidkl,602,Puchong Prima ~ IOI Puchong,3,006CFF,FFFFFF,Rapid KL
+U6400,rapidkl,640,Hab Bas Sri Manja ~ Hab Pasar Seni,3,006CFF,FFFFFF,Rapid KL
+U6500,rapidkl,650,Taman Desa ~ Hab Pasar Seni,3,006CFF,FFFFFF,Rapid KL
+T6400,rapidkl,T640,Stesen LRT Taman Jaya ~ Taman Sri Sentosa,3,008716,FFFFFF,Rapid KL
+U7830,rapidkl,783,Stesen LRT Kelana Jaya ~ Subang Parade,3,006CFF,FFFFFF,Rapid KL
+T7820,rapidkl,T782,Stesen LRT Lembah Subang ~ Ara Damansara,3,008716,FFFFFF,Rapid KL
+T7800,rapidkl,T780,Stesen LRT Kelana Jaya ~ Taman Mayang,3,008716,FFFFFF,Rapid KL
+T7810,rapidkl,T781,Stesen LRT Kelana Jaya ~ Kelana Centre Point,3,008716,FFFFFF,Rapid KL
+T7900,rapidkl,T790,Stesen LRT Paramount ~ Mid Valley,3,008716,FFFFFF,Rapid KL
+T7860,rapidkl,T786,Stesen LRT Asia Jaya ~ Stesen MRT Phileo Damansara,3,008716,FFFFFF,Rapid KL
+T7870,rapidkl,T787,Stesen LRT Asia Jaya ~ Seksyen 14 & 18,3,008716,FFFFFF,Rapid KL
+T7880,rapidkl,T788,Stesen LRT Universiti ~ Mid Valley,3,008716,FFFFFF,Rapid KL
+T7890,rapidkl,T789,Stesen LRT Universiti ~ Universiti Malaya via Pantai Hillpark,3,008716,FFFFFF,Rapid KL
+T7910,rapidkl,T791,Stesen LRT Kerinchi ~ Pantai Hill Park,3,008716,FFFFFF,Rapid KL
+P0010,rapidkl,PJ01,Terminal Taman Medan ~ Stesen LRT Taman Jaya,3,008716,FFFFFF,Rapid KL
+P0020,rapidkl,PJ02,Stesen LRT Taman Jaya ~ PPUM via SS2 PJ,3,008716,FFFFFF,Rapid KL
+P0030,rapidkl,PJ03,Stesen LRT Taman Bahagia ~ SS6 Kelana Park View,3,008716,FFFFFF,Rapid KL
+P0040,rapidkl,PJ04,Stesen LRT Taman Bahagia ~ Kampung Tunku via SS3,3,008716,FFFFFF,Rapid KL
+S5010,rapidkl,MENARA PRASARANA,LRT Lembah Subang ~ Menara Prasarana,3,21618C,FFFFFF,Rapid KL
+T8500,rapidkl,T850,Stesen LRT Bangsar ~ Stesen MRT Semantan,3,008716,FFFFFF,Rapid KL
+S4050,rapidkl,SA05,Stesen Bas Seksyen 13 ~ Bukit Jelutong,3,008716,FFFFFF,Rapid KL
+S1030,rapidkl,AJ2A,Sri Nilam ~ Taman Cahaya,3,008716,FFFFFF,Rapid KL
+S1040,rapidkl,AJ2B,Sri Nilam ~ AEON Big Ampang,3,008716,FFFFFF,Rapid KL
+S1050,rapidkl,AJ03,Stesen LRT Cempaka ~ Bukit Teratai,3,008716,FFFFFF,Rapid KL
+S2060,rapidkl,BTG2,Hentian Banting ~ Bandar Baru Banting,3,008716,FFFFFF,Rapid KL
+S1060,rapidkl,KJ02,Stesen KTM Bangi ~ Bandar Bukit Mahkota,3,008716,FFFFFF,Rapid KL
+S1070,rapidkl,KJ03,Stesen MRT BTHO ~ Taman Tun Perak,3,008716,FFFFFF,Rapid KL
+U7720,rapidkl,772,Subang Suria Mah Sing ~ Hab Pasar Seni,3,006CFF,FFFFFF,Rapid KL
+U7800,rapidkl,780,Kota Damansara ~ Hab Pasar Seni,3,006CFF,FFFFFF,Rapid KL
+U8010,rapidkl,801,Bandar Utama ~ Metro Prima,3,006CFF,FFFFFF,Rapid KL
+U8020,rapidkl,802,Stesen LRT Kelana Jaya ~ Kota Damansara,3,006CFF,FFFFFF,Rapid KL
+U2000,rapidkl,200,UIA Gombak ~ SOGO KL,3,006CFF,FFFFFF,Rapid KL
+U2200,rapidkl,220,Taman Melawati ~ Lebuh Ampang,3,006CFF,FFFFFF,Rapid KL
+U2220,rapidkl,222,Taman Melawati ~ Stesen LRT Wangsa Maju,3,006CFF,FFFFFF,Rapid KL
+U2500,rapidkl,250,Stesen LRT Wangsa Maju ~ Lebuh Ampang,3,006CFF,FFFFFF,Rapid KL
+U2510,rapidkl,251,AU3 Jentayu ~ Chow Kit,3,006CFF,FFFFFF,Rapid KL
+T2000,rapidkl,T200,Stesen LRT Gombak ~ UIA Gombak,3,008716,FFFFFF,Rapid KL
+T2010,rapidkl,T201,Stesen LRT Gombak ~ Hab Wira Damai,3,008716,FFFFFF,Rapid KL
+T2020,rapidkl,T202,Stesen LRT Taman Melati ~ Taman Melewar,3,008716,FFFFFF,Rapid KL
+T2220,rapidkl,T222,Stesen LRT Sri Rampai ~ UKAY Perdana,3,008716,FFFFFF,Rapid KL
+T2500,rapidkl,T250,Stesen LRT Wangsa Maju ~ Setapak Sentral,3,008716,FFFFFF,Rapid KL
+T2510,rapidkl,T251,Stesen LRT Sri Rampai ~ Seksyen 10 Wangsa Maju,3,008716,FFFFFF,Rapid KL
+T2230,rapidkl,T223,"Stesen LRT Setiawangsa ~ AU3, Jentayu, Keramat",3,008716,FFFFFF,Rapid KL
+T2240,rapidkl,T224,Stesen LRT Dato Keramat ~ Desa Pandan,3,008716,FFFFFF,Rapid KL
+U1700,rapidkl,170,Hab Wira Damai ~ Stesen MRT Titiwangsa,3,006CFF,FFFFFF,Rapid KL
+U1710,rapidkl,171,Hab Wira Damai ~ Lebuh Ampang via Sentul,3,006CFF,FFFFFF,Rapid KL
+U1730,rapidkl,173,Taman Jasa Utama ~ Lebuh Ampang,3,006CFF,FFFFFF,Rapid KL
+U1800,rapidkl,180,Taman Dato' Senu ~ Hab Pasar Seni,3,006CFF,FFFFFF,Rapid KL
+U1900,rapidkl,190,Desa Sri Hartamas ~ Lin Ho Jln Lekiu,3,006CFF,FFFFFF,Rapid KL
+U1910,rapidkl,191,Taman Sri Segambut~ Monorel Chow Kit,3,006CFF,FFFFFF,Rapid KL
+U2020,rapidkl,202,Hub Wira Damai ~ Lebuh Ampang via Gombak,3,006CFF,FFFFFF,Rapid KL
+U3020,rapidkl,302,Titiwangsa ~ KLCC,3,006CFF,FFFFFF,Rapid KL
+U8210,rapidkl,821,Pantai Hill Park ~ Hab Pasar Seni,3,006CFF,FFFFFF,Rapid KL
+U8220,rapidkl,822,Stesen LRT Bangsar ~ Bangsar Shopping Centre,3,006CFF,FFFFFF,Rapid KL
+U8510,rapidkl,851,Hab Pasar Seni ~ Kompleks Mahkamah Jalan Duta,3,006CFF,FFFFFF,Rapid KL
+P0050,rapidkl,PJ05,Bandar Utama ~ Stesen LRT Taman Bahagia,3,008716,FFFFFF,Rapid KL
+P0060,rapidkl,PJ06,Bandar Utama ~ Damansara Damai,3,008716,FFFFFF,Rapid KL
+S0070,rapidkl,MPS1,Selayang Mutiara ~ Stesen LRT Gombak,3,008716,FFFFFF,Rapid KL
+S0100,rapidkl,PBD1,Stesen MRT Semantan  ~ Damanlela Open CarPark,3,21618C,FFFFFF,Rapid KL
+S1140,rapidkl,AJ04,Pandan Perdana ~ Hospital Ampang,3,008716,FFFFFF,Rapid KL
+S4060,rapidkl,SA06,Terminal Seksyen 19 ~ Kota Kemuning,3,008716,FFFFFF,Rapid KL
+S1170,rapidkl,KJ04,Hentian Kajang ~ Bandar Baru Bangi,3,008716,FFFFFF,Rapid KL
+S4070,rapidkl,SA07,Stesen KTM Batu 3 ~ Seksyen 20 via HICOM,3,008716,FFFFFF,Rapid KL
+S4080,rapidkl,SA08,Stesen LRT Alam Megah ~ Kota Kemuning,3,008716,FFFFFF,Rapid KL
+S6020,rapidkl,BC2,Pasar Seni ~ Batu Caves (Thaipusam),3,21618C,FFFFFF,Rapid KL
+S6050,rapidkl,BC3,LRT Gombak ~ Batu Caves (Thaipusam),3,21618C,FFFFFF,Rapid KL
+S0040,rapidkl,AJ01,Ukay Perdana ~ Taman Melawati via Sg. Sering,3,008716,FFFFFF,Rapid KL
+S3020,rapidkl,KLG3A,Taman Sri Andalas ~ Bandar Klang,3,008716,FFFFFF,Rapid KL
+S3030,rapidkl,KLG3B,Bandar Putera ~ Bandar Klang via Jalan Raja Nong,3,008716,FFFFFF,Rapid KL
+S1190,rapidkl,MPS2A,Lotus Rawang ~ Rawang Perdana,3,008716,FFFFFF,Rapid KL
+S6060,rapidkl,PAVILION BUKIT JALIL (PAVBJ),Stesen LRT Awan Besar ~ Pavilion Bukit Jalil,3,006CFF,FFFFFF,Rapid KL
+S1390,rapidkl,MPS3,Batu Arang ~ Stesen MRT Sungai Buloh,3,008716,FFFFFF,Rapid KL
+S1490,rapidkl,MPS4,Wangsa Permai ~ Bandar Baru Selayang,3,008716,FFFFFF,Rapid KL
+R0200,rapidkl,DS01(AM),Stesen LRT Ampang ~ KLCC via AKLEH,3,21618C,FFFFFF,Rapid KL
+R0210,rapidkl,DS01(PM),KLCC via AKLEH ~ Stesen LRT Ampang,3,21618C,FFFFFF,Rapid KL
+S3040,rapidkl,KLG3C,Bandar Putera ~ Bandar Klang via Jalan Kebun,3,008716,FFFFFF,Rapid KL
+P1010,rapidkl,P101,Kompleks F ~ Presint 5,3,21618C,FFFFFF,Rapid KL
+P1020,rapidkl,P102,Presint 11 ~ Kompleks E,3,21618C,FFFFFF,Rapid KL
+P1030,rapidkl,P103,Presint 14 via Alamanda ~ Kompleks E,3,21618C,FFFFFF,Rapid KL
+P1040,rapidkl,P104,Dataran Gemilang ~ PICC via Presint 5,3,21618C,FFFFFF,Rapid KL
+P1050,rapidkl,P105,Dataran Gemilang ~ Kompleks ABCDE,3,21618C,FFFFFF,Rapid KL
+P1060,rapidkl,P106,Presint 4 ~ Kompleks E,3,21618C,FFFFFF,Rapid KL
+P1080,rapidkl,P108,Terminal Putrajaya Sentral ~ Kompleks ABCDE,3,21618C,FFFFFF,Rapid KL
+U1510,rapidkl,151,Bandar Baru Selayang ~ Hab Lebuh Pudu,3,006CFF,FFFFFF,Rapid KL
+T8510,rapidkl,T851,KL Sentral ~ Parlimen,3,008716,FFFFFF,Rapid KL
+U4510,rapidkl,451,Stesen MRT Kajang ~ Stesen MRT Putrajaya Sentral,3,006CFF,FFFFFF,Rapid KL
+S6090,rapidkl,BC4,MRT Kg Batu ~ Batu Caves (Thaipusam),3,21618C,FFFFFF,Rapid KL
+T3008,rapidkl,T300,Bukit Indah ~ Ampang Point via Jalan Rasmi,3,008716,FFFFFF,Rapid KL
+U4028,rapidkl,402,Terminal Maluri ~ Titiwangsa,3,006CFF,FFFFFF,Rapid KL
+T3018,rapidkl,T301,Taman Mulia Jaya ~ Ampang Point via Jalan Merdeka,3,008716,FFFFFF,Rapid KL
+T3028,rapidkl,T302,Hutan Lipur Ampang ~ Ampang Point,3,008716,FFFFFF,Rapid KL
+T3048,rapidkl,T304,Bukit Indah ~ Ampang Point via Jalan Ampang,3,008716,FFFFFF,Rapid KL
+U7548,rapidkl,754,Sekysen 13 Shah Alam ~ UITM Puncak Perdana,3,006CFF,FFFFFF,Rapid KL
+U7538,rapidkl,753,Hentian Bandar Shah Alam ~ UiTM Puncak Alam,3,006CFF,FFFFFF,Rapid KL
+S4100,rapidkl,SA10,Bukit Subang~Kg Melayu Subang ~Pekan Subang~Bukit Jelutung,3,008716,FFFFFF,Rapid KL
+U7828,rapidkl,782,Hentian PJ Old Town ~ Hab Pasar Seni,3,006CFF,FFFFFF,Rapid KL
+T7548,rapidkl,T754,Hentian Bandar Shah Alam ~ Terminal Seksyen 17,3,008716,FFFFFF,Rapid KL
+U7088,rapidkl,708,Klang ~ Sunway Pyramid via Hentian Bandar,3,006CFF,FFFFFF,Rapid KL
+T7568,rapidkl,T756,Kemuning Business Park ~ Hentian Bandar via Taman Muda,3,008716,FFFFFF,Rapid KL
+U7718,rapidkl,771,Subang Mewah USJ 1 ~ Desa Mentari via Persiaran Tujuan,3,006CFF,FFFFFF,Rapid KL
+T7538,rapidkl,T753,"Hentian Bandar Shah Alam ~ Sekysen 11, 9, 8, 6, 5",3,008716,FFFFFF,Rapid KL
+T7158,rapidkl,T715,UiTM Puncak Alam ~ Bandar Puncak Alam,3,008716,FFFFFF,Rapid KL
+U7508,rapidkl,750,Hab Sekysen 2 ~ Hab Pasar Seni,3,006CFF,FFFFFF,Rapid KL
+T4068,rapidkl,T406,Cheras Batu 10 ~ Pangsun,3,008716,FFFFFF,Rapid KL
+U5068,rapidkl,506,Putrajaya Sentral ~ Bandar Utama,3,006CFF,FFFFFF,Rapid KL
+U5408,rapidkl,540,Putra Permai ~ Stesen KTM Serdang,3,006CFF,FFFFFF,Rapid KL
+T5718,rapidkl,T571,Stesen KTM Serdang ~ Taman Sri Pulai,3,008716,FFFFFF,Rapid KL
+U6418,rapidkl,641,Stesen LRT Subang Jaya ~ Pearl Point,3,006CFF,FFFFFF,Rapid KL
+T6028,rapidkl,T602,Puchong Utama ~ Taman Saujana Puchong,3,008716,FFFFFF,Rapid KL
+S0120,rapidkl,HLB2,LRT Taman Jaya ~ Hong Leong Bank PJCT,3,21618C,FFFFFF,Rapid KL
+U2538,rapidkl,253,Stesen LRT Wangsa Maju ~ Ampang Point,3,006CFF,FFFFFF,Rapid KL
+U2548,rapidkl,254,Ayer Panas ~ Titiwangsa via Chowkit,3,006CFF,FFFFFF,Rapid KL
+T1208,rapidkl,T120,Kompleks Sungai Mas ~ Taman Mastiara,3,008716,FFFFFF,Rapid KL
+U2018,rapidkl,201,Batu 12 Gombak – Stesen MRT Titiwangsa,3,006CFF,FFFFFF,Rapid KL
+K1000,rkn,100,Hentian Bandar-Gambang Resort,3,006CFF,FFFFFF,RapidKuantan
+K1010,rkn,101,Hentian Bandar-Inderapura/Indera Sempurna,3,006CFF,FFFFFF,RapidKuantan
+K1020,rkn,102,Hentian Bandar-Permatang Badak,3,006CFF,FFFFFF,RapidKuantan
+K2000,rkn,200,Hentian Bandar-Teluk Cempedak,3,006CFF,FFFFFF,RapidKuantan
+K3000,rkn,300,Hentian Bandar-Taman Impian,3,006CFF,FFFFFF,RapidKuantan
+K3010,rkn,301,Hentian Bandar-Bukit Sagu,3,006CFF,FFFFFF,RapidKuantan
+K3020,rkn,302,Hentian Bandar-Indera Mahkota 1,3,006CFF,FFFFFF,RapidKuantan
+K3030,rkn,303,Hentian Bandar-Terminal Sentral Kuantan,3,006CFF,FFFFFF,RapidKuantan
+K4000,rkn,400,Hentian Bandar-Pekan,3,006CFF,FFFFFF,RapidKuantan
+K4010,rkn,401,Hentian Bandar-RTC Kuala Pahang,3,006CFF,FFFFFF,RapidKuantan
+K5000,rkn,500,Hentian Bandar-Sungai Lembing,3,006CFF,FFFFFF,RapidKuantan
+K6000,rkn,600,Hentian Bandar-Balok Makmur (via Jln Beserah),3,006CFF,FFFFFF,RapidKuantan
+K6010,rkn,601,Hentian Bandar-Kolej Polisas,3,006CFF,FFFFFF,RapidKuantan
+K6030,rkn,603,Hentian Bandar-Kolej PSDC,3,006CFF,FFFFFF,RapidKuantan
+K4020,rkn,402,HENTIAN BANDAR ~ SMK SUNGAI SOI,3,006CFF,FFFFFF,RapidKuantan
+K6040,rkn,604,Balok Makmur-Cherating,3,006CFF,FFFFFF,RapidKuantan
+K2010,rkn,T201,KUANTAN CITY LOOP,3,008716,FFFFFF,RapidKuantan
+30000143,MRT-Feeder-Bus,,T117,3,,,MRT Feeder Bus
+30000044,MRT-Feeder-Bus,,T413,3,,,MRT Feeder Bus
+30000117,MRT-Feeder-Bus,,T459,3,,,MRT Feeder Bus
+30000097,MRT-Feeder-Bus,,T305,3,,,MRT Feeder Bus
+30000127,MRT-Feeder-Bus,,T407,3,,,MRT Feeder Bus
+30000057,MRT-Feeder-Bus,,T400,3,,,MRT Feeder Bus
+30000157,MRT-Feeder-Bus,,T512,3,,,MRT Feeder Bus
+30000060,MRT-Feeder-Bus,,T802,3,,,MRT Feeder Bus
+30000125,MRT-Feeder-Bus,,T807,3,,,MRT Feeder Bus
+30000096,MRT-Feeder-Bus,,T455,3,,,MRT Feeder Bus
+30000137,MRT-Feeder-Bus,,T111,3,,,MRT Feeder Bus
+30000041,MRT-Feeder-Bus,,T411,3,,,MRT Feeder Bus
+30000148,MRT-Feeder-Bus,,T562,3,,,MRT Feeder Bus
+30000162,MRT-Feeder-Bus,,T586,3,,,MRT Feeder Bus
+30000028,MRT-Feeder-Bus,,T819,3,,,MRT Feeder Bus
+30000174,MRT-Feeder-Bus,,T565,3,,,MRT Feeder Bus
+30000029,MRT-Feeder-Bus,,T820,3,,,MRT Feeder Bus
+30000121,MRT-Feeder-Bus,,T101,3,,,MRT Feeder Bus
+30000181,MRT-Feeder-Bus,,T569,3,,,MRT Feeder Bus
+30000025,MRT-Feeder-Bus,,T816,3,,,MRT Feeder Bus
+30000152,MRT-Feeder-Bus,,T506,3,,,MRT Feeder Bus
+30000056,MRT-Feeder-Bus,,T412,3,,,MRT Feeder Bus
+30000091,MRT-Feeder-Bus,,T104,3,,,MRT Feeder Bus
+30000165,MRT-Feeder-Bus,,T543,3,,,MRT Feeder Bus
+30000154,MRT-Feeder-Bus,,T509,3,,,MRT Feeder Bus
+30000124,MRT-Feeder-Bus,,T105,3,,,MRT Feeder Bus
+30000094,MRT-Feeder-Bus,,T453,3,,,MRT Feeder Bus
+30000133,MRT-Feeder-Bus,,T107,3,,,MRT Feeder Bus
+30000160,MRT-Feeder-Bus,,T564,3,,,MRT Feeder Bus
+30000115,MRT-Feeder-Bus,,T457,3,,,MRT Feeder Bus
+30000118,MRT-Feeder-Bus,,T460,3,,,MRT Feeder Bus
+30000136,MRT-Feeder-Bus,,T110,3,,,MRT Feeder Bus
+30000116,MRT-Feeder-Bus,,T458,3,,,MRT Feeder Bus
+30000067,MRT-Feeder-Bus,,T803,3,,,MRT Feeder Bus
+30000068,MRT-Feeder-Bus,,T852,3,,,MRT Feeder Bus
+30000062,MRT-Feeder-Bus,,T804,3,,,MRT Feeder Bus
+30000145,MRT-Feeder-Bus,,T103,3,,,MRT Feeder Bus
+30000149,MRT-Feeder-Bus,,T508,3,,,MRT Feeder Bus
+30000155,MRT-Feeder-Bus,,T510,3,,,MRT Feeder Bus
+30000173,MRT-Feeder-Bus,,T560,3,,,MRT Feeder Bus
+30000011,MRT-Feeder-Bus,,T812,3,,,MRT Feeder Bus
+30000151,MRT-Feeder-Bus,,T505,3,,,MRT Feeder Bus
+30000176,MRT-Feeder-Bus,,T511,3,,,MRT Feeder Bus
+30000120,MRT-Feeder-Bus,,T100,3,,,MRT Feeder Bus
+30000158,MRT-Feeder-Bus,,T561,3,,,MRT Feeder Bus
+30000156,MRT-Feeder-Bus,,T544,3,,,MRT Feeder Bus
+30000131,MRT-Feeder-Bus,,T772,3,,,MRT Feeder Bus
+30000168,MRT-Feeder-Bus,,T567,3,,,MRT Feeder Bus
+30000064,MRT-Feeder-Bus,,T408,3,,,MRT Feeder Bus
+30000130,MRT-Feeder-Bus,,T801,3,,,MRT Feeder Bus
+30000180,MRT-Feeder-Bus,,T545,3,,,MRT Feeder Bus
+30000030,MRT-Feeder-Bus,,T821,3,,,MRT Feeder Bus
+30000026,MRT-Feeder-Bus,,T817,3,,,MRT Feeder Bus
+30000132,MRT-Feeder-Bus,,T106,3,,,MRT Feeder Bus
+30000185,MRT-Feeder-Bus,,T154,3,,,MRT Feeder Bus
+30000106,MRT-Feeder-Bus,,T809,3,,,MRT Feeder Bus
+30000092,MRT-Feeder-Bus,,T813,3,,,MRT Feeder Bus
+30000184,MRT-Feeder-Bus,,T121,3,,,MRT Feeder Bus
+30000058,MRT-Feeder-Bus,,T401,3,,,MRT Feeder Bus
+30000141,MRT-Feeder-Bus,,T115,3,,,MRT Feeder Bus
+30000166,MRT-Feeder-Bus,,T568,3,,,MRT Feeder Bus
+30000164,MRT-Feeder-Bus,,T588,3,,,MRT Feeder Bus
+30000175,MRT-Feeder-Bus,,T542,3,,,MRT Feeder Bus
+30000016,MRT-Feeder-Bus,,T815,3,,,MRT Feeder Bus
+30000134,MRT-Feeder-Bus,,T108,3,,,MRT Feeder Bus
+30000187,MRT-Feeder-Bus,,T465,3,,,MRT Feeder Bus
+30000170,MRT-Feeder-Bus,,T419,3,,,MRT Feeder Bus
+30000038,MRT-Feeder-Bus,,T409,3,,,MRT Feeder Bus
+30000159,MRT-Feeder-Bus,,T563,3,,,MRT Feeder Bus
+30000101,MRT-Feeder-Bus,,T462,3,,,MRT Feeder Bus
+30000075,MRT-Feeder-Bus,,T352,3,,,MRT Feeder Bus
+30000040,MRT-Feeder-Bus,,T410,3,,,MRT Feeder Bus
+30000100,MRT-Feeder-Bus,,T461,3,,,MRT Feeder Bus
+30000010,MRT-Feeder-Bus,,T811,3,,,MRT Feeder Bus
+30000146,MRT-Feeder-Bus,,T119,3,,,MRT Feeder Bus
+30000186,MRT-Feeder-Bus,,T155,3,,,MRT Feeder Bus
+30000147,MRT-Feeder-Bus,,T180,3,,,MRT Feeder Bus
+30000140,MRT-Feeder-Bus,,T114,3,,,MRT Feeder Bus
+30000069,MRT-Feeder-Bus,,T417,3,,,MRT Feeder Bus
+30000167,MRT-Feeder-Bus,,T566,3,,,MRT Feeder Bus
+30000093,MRT-Feeder-Bus,,T814,3,,,MRT Feeder Bus
+30000153,MRT-Feeder-Bus,,T507,3,,,MRT Feeder Bus
+30000105,MRT-Feeder-Bus,,T810,3,,,MRT Feeder Bus
+30000150,MRT-Feeder-Bus,,T504,3,,,MRT Feeder Bus
+30000085,MRT-Feeder-Bus,,T805,3,,,MRT Feeder Bus
+30000027,MRT-Feeder-Bus,,T818,3,,,MRT Feeder Bus
+30000102,MRT-Feeder-Bus,,T463,3,,,MRT Feeder Bus
+30000144,MRT-Feeder-Bus,,T118,3,,,MRT Feeder Bus
+30000009,MRT-Feeder-Bus,,T808,3,,,MRT Feeder Bus
+30000183,MRT-Feeder-Bus,,T152,3,,,MRT Feeder Bus
+30000139,MRT-Feeder-Bus,,T113,3,,,MRT Feeder Bus
+30000135,MRT-Feeder-Bus,,T109,3,,,MRT Feeder Bus
+30000034,MRT-Feeder-Bus,,T456,3,,,MRT Feeder Bus
+30000163,MRT-Feeder-Bus,,T587,3,,,MRT Feeder Bus
+30000129,MRT-Feeder-Bus,,T464,3,,,MRT Feeder Bus
+30000036,MRT-Feeder-Bus,,T415,3,,,MRT Feeder Bus
+30000172,MRT-Feeder-Bus,,T559,3,,,MRT Feeder Bus
+30000122,MRT-Feeder-Bus,,T102,3,,,MRT Feeder Bus
+30000045,MRT-Feeder-Bus,,T414,3,,,MRT Feeder Bus
+30000138,MRT-Feeder-Bus,,T112,3,,,MRT Feeder Bus
+30000169,MRT-Feeder-Bus,,T418,3,,,MRT Feeder Bus
+30000128,MRT-Feeder-Bus,,T451,3,,,MRT Feeder Bus
+30000171,MRT-Feeder-Bus,,T589,3,,,MRT Feeder Bus
+30000098,MRT-Feeder-Bus,,T402,3,,,MRT Feeder Bus
+30000046,MRT-Feeder-Bus,,T416,3,,,MRT Feeder Bus
+30000161,MRT-Feeder-Bus,,T585,3,,,MRT Feeder Bus
+30000095,MRT-Feeder-Bus,,T454,3,,,MRT Feeder Bus
+30000019,rapidpg,401,401,3,,,Rapid Penang
+30000051,rapidpg,CAT,CAT,3,,,Rapid Penang
+30000009,rapidpg,206,206,3,,,Rapid Penang
+30000006,rapidpg,202,202,3,,,Rapid Penang
+30000040,rapidpg,708,708,3,,,Rapid Penang
+30000089,rapidpg,613,613,3,,,Rapid Penang
+30000038,rapidpg,703,703,3,,,Rapid Penang
+30000048,rapidpg,11,11,3,,,Rapid Penang
+30000001,rapidpg,101,101,3,,,Rapid Penang
+30000007,rapidpg,203,203,3,,,Rapid Penang
+30000021,rapidpg,403,403,3,,,Rapid Penang
+30000117,rapidpg,CT14,CT14,3,,,Rapid Penang
+30000100,rapidpg,CT13,CT13,3,,,Rapid Penang
+30000020,rapidpg,401E,401E,3,,,Rapid Penang
+30000010,rapidpg,301,301,3,,,Rapid Penang
+30000014,rapidpg,304,304,3,,,Rapid Penang
+30000005,rapidpg,201,201,3,,,Rapid Penang
+30000012,rapidpg,302,302,3,,,Rapid Penang
+30000018,rapidpg,308,308,3,,,Rapid Penang
+30000034,rapidpg,610,610,3,,,Rapid Penang
+30000119,rapidpg,T310,T310,3,,,Rapid Penang
+30000026,rapidpg,601,601,3,,,Rapid Penang
+30000028,rapidpg,604,604,3,,,Rapid Penang
+30000041,rapidpg,709,709,3,,,Rapid Penang
+30000024,rapidpg,502,502,3,,,Rapid Penang
+30000065,rapidpg,706,706,3,,,Rapid Penang
+30000013,rapidpg,303,303,3,,,Rapid Penang
+30000042,rapidpg,801,801,3,,,Rapid Penang
+30000008,rapidpg,204,204,3,,,Rapid Penang
+30000022,rapidpg,404,404,3,,,Rapid Penang
+30000049,rapidpg,12,12,3,,,Rapid Penang
+30000032,rapidpg,606,606,3,,,Rapid Penang
+30000016,rapidpg,306,306,3,,,Rapid Penang
+30000037,rapidpg,702,702,3,,,Rapid Penang
+30000031,rapidpg,605,605,3,,,Rapid Penang
+30000046,rapidpg,EB60,EB60,3,,,Rapid Penang
+30000043,rapidpg,802,802,3,,,Rapid Penang
+30000003,rapidpg,103,103,3,,,Rapid Penang
+30000045,rapidpg,EB80,EB80,3,,,Rapid Penang
+30000002,rapidpg,102,102,3,,,Rapid Penang
+30000004,rapidpg,104,104,3,,,Rapid Penang
+30000104,rapidpg,C13C,C13C,3,,,Rapid Penang
+30000036,rapidpg,701,701,3,,,Rapid Penang
+30000050,rapidpg,13,13,3,,,Rapid Penang
+30000027,rapidpg,603,603,3,,,Rapid Penang
+30000039,rapidpg,707,707,3,,,Rapid Penang
+30000103,rapidpg,C13A,C13A,3,,,Rapid Penang
+AG,rapidrail,AGL,LRT Ampang Line,1,e57200,FFFFFF,rapidrail
+KJ,rapidrail,KJL,LRT Kelana Jaya Line,1,D50032,FFFFFF,rapidrail
+PH,rapidrail,SPL,LRT Sri Petaling Line,1,76232f,FFFFFF,rapidrail
+KGL,rapidrail,KGL,MRT Kajang Line,1,047940,FFFFFF,rapidrail
+PYL,rapidrail,PYL,MRT Putrajaya Line,1,FFCD00,FFFFFF,rapidrail
+MR,rapidrail,MRL,KL Monorail Line,1,84bd00,FFFFFF,rapidrail
+BRT,rapidrail,BRT,BRT Sunway Line,0,115740,FFFFFF,rapidrail
+KC05_KB18,ktmb,Seremban Line,KTM Batu Caves - Pulau Sebang/Tampin,0,3C5A9F,FFFFFF,Keretapi Tanah Melayu
+KA15_KD19,ktmb,Port Klang Line,KTM Tanjung Malim - Pelabuhan Klang,0,DC2420,FFFFFF,Keretapi Tanah Melayu
+100_47300,ktmb,Padang Besar Line,KTM Butterworth - Padang Besar,0,018000,FFFFFF,Keretapi Tanah Melayu
+100_9000,ktmb,Ipoh Line,KTM Butterworth - Ipoh,0,1964B7,FFFFFF,Keretapi Tanah Melayu
+SH,ktmb,SH,Intercity Shuttle Tumpat - Gemas,2,,,Keretapi Tanah Melayu
+ERT,ktmb,ERT,Intercity Ekspres Rakyat Timuran Tumpat - JB Sentral,2,,,Keretapi Tanah Melayu
+ES,ktmb,ES,Intercity Ekspres Selatan Gemas - JB Sentral,2,,,Keretapi Tanah Melayu
+ST,ktmb,ST,Intercity Shuttle Tebrau JB Sentral - Woodlands,2,,,Keretapi Tanah Melayu
+ETS,ktmb,ETS,Electric Train Service Padang Besar - Gemas,2,,,Keretapi Tanah Melayu
+30407,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K10,SHAHAB PERDANA - KUALA KEDAH,3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+30409,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K30,SHAHAB PERDANA - KUALA NERANG,3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+30424,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K100(I),K100 ALOR SETAR FEEDER(I),3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+30419,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K100(O),K100 ALOR SETAR FEEDER(O),3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+30412,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K50,SHAHAB PERDANA - SUNGAI PETANI,3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+30411,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K41,SHAHAB PERDANA - PENDANG VIA KOTA SARANG SEMUT,3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+30410,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K40,SHAHAB PERDANA - PENDANG VIA SIMPANG EMPAT,3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+30408,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K20,SHAHAB PERDANA - JITRA,3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+30414,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K52,SUNGAI PETANI - PANTAI MERDEKA,3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+30418,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K63,SUNGAI PETANI - BANDAR PERDANA,3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+30417,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K62,SUNGAI PETANI - TAMAN RIA JAYA TAMAN BATIK,3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+30416,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K61,SUNGAI PETANI - TAMAN KELISA,3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+30415,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K60,SUNGAI PETANI - TAMAN BANDAR BARU,3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+30413,397CD99C-8ED0-48B1-A59B72AAEB8BA6EB,K51,SUNGAI PETANI - TANJUNG DAWAI,3,FF0000,000000,GOPI TRAVEL TOURS SDN BHD
+J10CWL,CWL,J10,JB Sentral - Terminal Bas Kota Tinggi,3,FFF300,111111,CWL
+J100CWL,CWL,J100,JB Sentral  KSL - JB Sentral,3,FFF300,111111,CWL
+J11CWL,CWL,J11,JB Sentral - AEON Dato Onn via Setia Indah,3,FFF300,111111,CWL
+J13CWL,CWL,J13,JB Sentral - Larkin Sentral via Mahmoodiah,3,FFF300,111111,CWL
+J15CWL,CWL,J15,JB Sentral - Mid Valley Southkey,3,FFF300,111111,CWL
+J16CWL,CWL,J16,B5 Johor Street Market / Plaza Angsana - Toppen Tebrau,3,FFF300,111111,CWL
+J20CWL,CWL,J20,JB Sentral - Terminal Bas Masai,3,FFF300,111111,CWL
+J200CWL,CWL,J200,Terminal Masai  PPR Seri Alam - Terminal Masai,3,FFF300,111111,CWL
+J205CWL,CWL,J205,Terminal Bas Masai - Lotus Kota Masai,3,FFF300,111111,CWL
+J21CWL,CWL,J21,JB Sentral - Permas Jaya,3,FFF300,111111,CWL
+J22CWL,CWL,J22,JB Sentral - Taman Scientex Pasir Gudang,3,FFF300,111111,CWL
+J30CWL,CWL,J30,JB Sentral - Terminal Kulai,3,FFF300,111111,CWL
+J300CWL,CWL,J300,Terminal Kulai - Taman Putri Kulai,3,FFF300,111111,CWL
+J31CWL,CWL,J31,JB Sentral - Taman Pulai Mutiara,3,FFF300,111111,CWL
+J32CWL,CWL,J32,JB Sentral - Bandar Selesa Jaya,3,FFF300,111111,CWL
+J33CWL,CWL,J33,JB Sentral - Taman Tan Sri Yaacob,3,FFF300,111111,CWL
+J34CWL,CWL,J34,JB Sentral - Terminal Sutera Mall,3,FFF300,111111,CWL
+J40CWL,CWL,J40,Larkin Sentral - Gelang Patah Sentral,3,FFF300,111111,CWL
+J42CWL,CWL,J42,Terminal Gelang Patah - Pendas,3,FFF300,111111,CWL
+J44CWL,CWL,J44,Larkin Sentral - Terminal Feri Puteri Harbour melalui AEON Bukit Indah,3,FFF300,111111,CWL
+J50CWL,CWL,J50,Larkin Sentral - Pontian,3,FFF300,111111,CWL
+30271,2BD0BC24-B135-4699-B92DDDF114F2F35E,R14,KANGAR - ALOR SETAR VIA JITRA,3,FF0000,000000,MARA LINER SBST KANGAR
+30272,2BD0BC24-B135-4699-B92DDDF114F2F35E,R13,KANGAR - ALOR SETAR VIA KUALA SANGLANG,3,FF0000,000000,MARA LINER SBST KANGAR
+30273,2BD0BC24-B135-4699-B92DDDF114F2F35E,R12,KANGAR - KUALA PERLIS,3,FF0000,000000,MARA LINER SBST KANGAR
+30274,2BD0BC24-B135-4699-B92DDDF114F2F35E,R11,KANGAR - PADANG BESAR,3,FF0000,000000,MARA LINER SBST KANGAR
+30275,2BD0BC24-B135-4699-B92DDDF114F2F35E,R10,KANGAR - CHANGLUN,3,FF0000,000000,MARA LINER SBST KANGAR
+30380,2BD0BC24-B135-4699-B92DDDF114F2F35E,R104,TERMINAL BUKIT LAGI - FELDA CHUPING,3,FF0000,000000,MARA LINER SBST KANGAR
+30270,2BD0BC24-B135-4699-B92DDDF114F2F35E,R15,ALOR SETAR - UUM SINTOK VIA JITRA,3,FF0000,000000,MARA LINER SBST KANGAR
+30381,2BD0BC24-B135-4699-B92DDDF114F2F35E,R105,TERMINAL PADANG BESAR-KAKI BUKIT-TERMINAL PADANG BESAR,3,FF0000,000000,MARA LINER SBST KANGAR
+30268,2BD0BC24-B135-4699-B92DDDF114F2F35E,R102,KANGAR - KILANG GULA,3,FF0000,000000,MARA LINER SBST KANGAR
+30433,FA8698D6-403C-41B2-81EEEE4E57DD411C,D32,KOTA BHARU - RANTAU PANJANG,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30437,FA8698D6-403C-41B2-81EEEE4E57DD411C,D52,KOTA BHARU - KAMPUNG RAJA VIA TOK BALI,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30438,FA8698D6-403C-41B2-81EEEE4E57DD411C,D60,KOTA BHARU - KUALA KRAI VIA MACHANG,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30435,FA8698D6-403C-41B2-81EEEE4E57DD411C,D50,KOTA BHARU - BACHOK VIA BUKIT MARAK,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30440,FA8698D6-403C-41B2-81EEEE4E57DD411C,D62,KOTA BHARU - GUA MUSANG,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30434,FA8698D6-403C-41B2-81EEEE4E57DD411C,D40,KOTA BHARU - JELI VIA TANAH MERAH,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30436,FA8698D6-403C-41B2-81EEEE4E57DD411C,D51,KOTA BHARU - JERTEH VIA PASIR PUTEH,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30432,FA8698D6-403C-41B2-81EEEE4E57DD411C,D31,KOTA BHARU - MERANTI,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30426,FA8698D6-403C-41B2-81EEEE4E57DD411C,D11,KOTA BHARU - SABAK VIA KEMUMIN,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30425,FA8698D6-403C-41B2-81EEEE4E57DD411C,D10,KOTA BHARU - PENGKALAN CHEPA,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30427,FA8698D6-403C-41B2-81EEEE4E57DD411C,D12,KOTA BHARU - SABAK VIA LAPANGAN TERBANG,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30431,FA8698D6-403C-41B2-81EEEE4E57DD411C,D30,KOTA BHARU - PASIR MAS VIA SALOR,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30429,FA8698D6-403C-41B2-81EEEE4E57DD411C,D20,KOTA BHARU - PENGKALAN KUBOR VIA CHABANG EMPAT,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30430,FA8698D6-403C-41B2-81EEEE4E57DD411C,D21,KOTA BHARU - PENGKALAN KUBOR VIA TUMPAT,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30439,FA8698D6-403C-41B2-81EEEE4E57DD411C,D61,KOTA BHARU - UITM MACHANG,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30428,FA8698D6-403C-41B2-81EEEE4E57DD411C,D13,KOTA BHARU - PANTAI CAHAYA BULAN,3,FF0000,000000,KONSORTIUM E-MUTIARA BERHAD
+30376,41B482AD-7BD8-4EE7-89CC34C9F4E4B1F5,T11B,TERMINAL MBKT - BATU RAKIT (PETANG),3,FF0000,000000,MARA LINER SBST KUALA TERENGGANU
+30399,CC9F83EF-A88E-471E-9ACB4849AF7010F6,Q10,OPEN AIR MARKET - TERMINAL BAS SERIAN,3,FF0000,000000,BIARAMAS EXPRESS SDN BHD
+30405,CC9F83EF-A88E-471E-9ACB4849AF7010F6,Q09,OPEN AIR MARKET - MUARA TEBAS,3,FF0000,000000,BIARAMAS EXPRESS SDN BHD
+30395,CC9F83EF-A88E-471E-9ACB4849AF7010F6,Q01,SAUJANA PARKING - TAMAN MALIHAH,3,FF0000,000000,BIARAMAS EXPRESS SDN BHD
+30396,CC9F83EF-A88E-471E-9ACB4849AF7010F6,Q02,SAUJANA PARKING - SMK MATANG JAYA,3,FF0000,000000,BIARAMAS EXPRESS SDN BHD
+30400,CC9F83EF-A88E-471E-9ACB4849AF7010F6,Q04,OPEN AIR MARKET - BAKO,3,FF0000,000000,BIARAMAS EXPRESS SDN BHD
+30401,CC9F83EF-A88E-471E-9ACB4849AF7010F6,Q05,SAUJANA PARKING - SMKA MATANG 2,3,FF0000,000000,BIARAMAS EXPRESS SDN BHD
+30402,CC9F83EF-A88E-471E-9ACB4849AF7010F6,Q06,SAUJANA PARKING - KAMPUNG BENUK HOMESTAY,3,FF0000,000000,BIARAMAS EXPRESS SDN BHD
+30403,CC9F83EF-A88E-471E-9ACB4849AF7010F6,Q07,SAUJANA PARKING - SJK CHUNG HUA BATU KAWA,3,FF0000,000000,BIARAMAS EXPRESS SDN BHD
+30404,CC9F83EF-A88E-471E-9ACB4849AF7010F6,Q08,SAUJANA PARKING - TERMINAL BAS BAU,3,FF0000,000000,BIARAMAS EXPRESS SDN BHD
+30397,CC9F83EF-A88E-471E-9ACB4849AF7010F6,Q03,SAUJANA PARKING - KING CENTRE,3,FF0000,000000,BIARAMAS EXPRESS SDN BHD
+M100CWLMLK,CWLMLK,M100,Bandaraya Melaka Feeder,3,FFF300,111111,CWLMLK
+M101CWLMLK,CWLMLK,M101,Pasar Melaka Feeder,3,FFF300,111111,CWLMLK
+M10ACWLMLK,CWLMLK,M10A,Melaka Sentral - MITC,3,FFF300,111111,CWLMLK
+M10BCWLMLK,CWLMLK,M10B,Melaka Sentral - MITC - Via Jalan Pengkalan Batu & AEON Melaka,3,FFF300,111111,CWLMLK
+M11CWLMLK,CWLMLK,M11,Melaka Sentral - Bukit Katil / Taman Saujana Permai,3,FFF300,111111,CWLMLK
+M12CWLMLK,CWLMLK,M12,Melaka Sentral - Airport Batu Berendam / Angkasa Nuri,3,FFF300,111111,CWLMLK
+M13CWLMLK,CWLMLK,M13,Melaka Sentral - Taman Inang Sari,3,FFF300,111111,CWLMLK
+M14CWLMLK,CWLMLK,M14,Melaka Sentral - Bertam Ulu / Tanjung Minyak Perdana,3,FFF300,111111,CWLMLK
+M15CWLMLK,CWLMLK,M15,Melaka Sentral - Pulau Gadong,3,FFF300,111111,CWLMLK
+M16CWLMLK,CWLMLK,M16,Melaka Sentral - Paya Luboh,3,FFF300,111111,CWLMLK
+M17CWLMLK,CWLMLK,M17,Melaka Sentral - Tangga Batu,3,FFF300,111111,CWLMLK
+M20CWLMLK,CWLMLK,M20,Melaka Sentral - Tampin via Alor Gajah,3,FFF300,111111,CWLMLK
+M20XCWLMLK,CWLMLK,M20X,Melaka Sentral - Alor Gajah,3,FFF300,111111,CWLMLK
+M21CWLMLK,CWLMLK,M21,Melaka Sentral - Tampin via Alor Gajah Durian Tunggal,3,FFF300,111111,CWLMLK
+M21XCWLMLK,CWLMLK,M21X,Melaka Sentral - Alor Gajah Melalui Durian Tunggal,3,FFF300,111111,CWLMLK
+M22CWLMLK,CWLMLK,M22,Melaka Sentral - Bandar Vendor / UniKL,3,FFF300,111111,CWLMLK
+M23CWLMLK,CWLMLK,M23,Melaka Sentral - Masjid Tanah / Pengkalan Balak,3,FFF300,111111,CWLMLK
+M23XCWLMLK,CWLMLK,M23X,Masjid Tanah - Melaka Sentral,3,FFF300,111111,CWLMLK
+M30CWLMLK,CWLMLK,M30,Melaka Sentral - Batang Melaka via Selandar,3,FFF300,111111,CWLMLK
+M31CWLMLK,CWLMLK,M31,Melaka Sentral - Batang Melaka via Tebong,3,FFF300,111111,CWLMLK
+M32CWLMLK,CWLMLK,M32,Melaka Sentral - Jasin,3,FFF300,111111,CWLMLK
+M33CWLMLK,CWLMLK,M33,Jasin - Taman Seri Asahan,3,FFF300,111111,CWLMLK
